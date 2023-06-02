@@ -3,7 +3,7 @@ from data import question_data
 from quiz_brain import QuizBrain
 from ui import QuizInterface
 
-question_bank = []
+question_bank = [] # empty list 
 for question in question_data:
     question_text = question["question"]
     question_answer = question["correct_answer"]
