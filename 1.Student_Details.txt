@@ -1,0 +1,9 @@
+Project ID: BT2242
+Semester: 4
+Session: 2022-2023
+Course: B.Tech,CSE
+
+S.No.	Name of Student/s		Admission No.   	Enrollment No.
+	
+1	ABHINAV SRIVASTAVA		21SCSE1011127		21131012554
+2	SARTHAK PANDEY          	21SCSE1120004		21131120016
