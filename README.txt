@@ -21,7 +21,9 @@ Otherwise you can run this project by just using IDLE(IDLE is Python's Integrate
 7.your result/score is displayed in the terminal.
 
 To run the timer along with the quiz:
-Open the 'Pomodoro timer' folder and run the main.py file.
+Open the 'Pomodoro timer' folder in File explorer 
+Right click inside the folder and select 'open with code'
+Run the main.py file.
 A timer opens up.
 To start the timer click on the 'Start' button and to reset the timer click on 'Reset' button.
 Once you start the timer it starts counting backwards.
